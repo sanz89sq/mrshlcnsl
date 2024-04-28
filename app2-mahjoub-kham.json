@@ -19,7 +19,7 @@
 
     "AppEtat": nosuspended,
     "testMode": false,
-    "modeads": true,
+    "modeads": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
     "reviewActive": true
