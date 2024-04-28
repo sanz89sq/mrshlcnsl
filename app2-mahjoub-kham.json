@@ -1,0 +1,27 @@
+{
+  "AdsController": {
+    "adNetwork": "unity",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+   
+
+    "unityGameId": "5607713",
+
+     "personalnative": "https://raw.githubusercontent.com/sanz89sq/Adnn-1sus/main/native1.png",
+   "personaldirection": "https://play.google.com/store/apps/details?id=com.dizzystudio.tocaboca.roomdesign.tocatoca",
+    "personalnative2": "https://raw.githubusercontent.com/sanz89sq/Adnn-1sus/main/native2.png",
+      "personaldirection2": "https://play.google.com/store/apps/details?id=com.dizzystudio.tocaboca.barby.pinkworld",
+    "personalnative3": "https://raw.githubusercontent.com/sanz89sq/Adnn-1sus/main/native3.png",
+     "personaldirection3": "https://play.google.com/store/apps/details?id=com.dizzystudio.tocaboca.school.university",
+    "personalnative4": "https://raw.githubusercontent.com/sanz89sq/Adnn-1sus/main/native4.png",
+    "personaldirection4": "https://play.google.com/store/apps/details?id=com.dizzystudio.tocaboca.cutepets.animaldressup",
+
+
+    "AppEtat": nosuspended,
+    "testMode": false,
+    "modeads": true,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+    "reviewActive": true
+  }
+}
